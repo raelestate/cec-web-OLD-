@@ -3,5 +3,5 @@
         BALL
     </h3>
     <iframe class="w-full aspect-video rounded-b-xl"
-        src="https://www.youtube.com/embed/m3lF2qEA2cw?list=RDMMm3lF2qEA2cw"></iframe>
+        src="http://www.casinoespanol.ph/video/NewYearBall01062024.mp4"></iframe>
 </div>

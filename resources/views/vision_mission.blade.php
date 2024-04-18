@@ -4,5 +4,13 @@
         <x-breadcrumbs></x-breadcrumbs>
 
     </x-slot:heading>
-    <h1>Hello from the Contact Page</h1>
+    <div class="container mx-auto pt-5 px-10">
+        <x-vision_message></x-vision_message>
+        <div class="divider divider-vertical">AND</div>
+        <x-mission_message></x-mission_message>
+    </div>
+
+
+
+
 </x-layout>

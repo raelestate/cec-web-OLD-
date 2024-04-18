@@ -26,7 +26,9 @@
             filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024", endColorstr="#1b1b33", GradientType=1);
         }
     </style>
-    <x-navbar></x-navbar>
+    <x-navbar>
+
+    </x-navbar>
 
     <header>
         <div class="container mx-auto">{{ $heading }}</div>
@@ -36,6 +38,9 @@
         <div class="container mx-auto">{{ $slot }}</div>
 
     </main>
-    <div class="pt-40"><x-footer></x-footer></div>
+    <div class="pt-40">
+        <x-footer>
+        </x-footer>
+    </div>
 
 </body>

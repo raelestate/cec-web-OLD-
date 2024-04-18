@@ -1,4 +1,4 @@
-<div class="card w-full bg-orange-950 shadow-xl">
+<div class="card w-full bg-cyan-600 shadow-xl">
     <div class="card-body">
         <h2 class="card-title">Featured!</h2>
         <div class="collapse collapse-plus bg-base-200">

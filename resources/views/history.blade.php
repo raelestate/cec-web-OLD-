@@ -4,5 +4,6 @@
         <x-breadcrumbs></x-breadcrumbs>
 
     </x-slot:heading>
-    <h1>Hello from the Contact Page</h1>
+    <x-history_content>
+    </x-history_content>
 </x-layout>
