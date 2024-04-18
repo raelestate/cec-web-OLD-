@@ -3,7 +3,7 @@
         <x-breadcrumbs></x-breadcrumbs>
     </x-slot:heading>
 
-    <div class="flex flex-row justify-center items-center px-5 pb-5 pt-7">
+    <div class="flex flex-row justify-center items-center px-5 pb-5 pt-7 text-white">
         <ul class="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
             <li>
                 <div class="timeline-middle">

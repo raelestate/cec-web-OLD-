@@ -1,4 +1,4 @@
-<div class="container mx-auto">
+<div class="container mx-auto text-white">
     <div class="navbar bg-transparent p-10">
 
         <div class="navbar-start">
@@ -12,7 +12,7 @@
                 </div>
 
                 <ul tabindex="0"
-                    class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                    class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-cyan-900 rounded-box w-52">
                     <li>
                         <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
                     </li>
@@ -80,7 +80,7 @@
 
             <div class="navbar-center hidden lg:flex">
                 <div class="w-16 rounded-full p-15">
-                    <a href="/"> <img src="images/CEC_LOGO_WHITE.png" alt=""></a>
+                    <a href="/"> <img src="/images/CEC_LOGO_WHITE.png" alt="CEC LOGO WHITE"></a>
 
                 </div>
             </div>
@@ -89,7 +89,7 @@
         </div>
         <div class="navbar-center lg:hidden">
             <div class="w-16 rounded-full p-15">
-                <a href="/"><img src="images/CEC_LOGO_WHITE.png" alt=""></a>
+                <a href="/"><img src="/images/CEC_LOGO_WHITE.png" alt="CEC LOGO WHITE"></a>
 
             </div>
         </div>

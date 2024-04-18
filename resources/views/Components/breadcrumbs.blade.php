@@ -1,5 +1,5 @@
 <div class="container mx-auto px-10">
-    <div class="text-sm breadcrumbs">
+    <div class="text-sm breadcrumbs text-white">
         <ul>
             <li>About Us</li>
             <x-breadcrumbs-link href="/fact_sheet" :active="request()->is('fact_sheet')">Fact Sheet</x-breadcrumbs-link>

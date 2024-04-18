@@ -6,7 +6,7 @@
         <div class="card-body">
             <h2 class="card-title">
                 Casino Español's History
-                <img src="images/cec_white.ico" alt="" class="w-7 h-7">
+                <img src="/images/CEC_LOGO_WHITE.png" alt="" class="w-7 h-7">
             </h2>
             <p>The first Casino Español de Cebu was located on Legaspi St. esquina Zamora St. in a pretty green chalet,
                 just enough for its few members in 1920, the perfect place for "un grupo entusiasta de españoles" who
