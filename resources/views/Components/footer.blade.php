@@ -1,5 +1,5 @@
 <div class="container mx-auto text-white">
-    <footer class="footer footer-center bg-cyan-950/60 text-white-500 p-10">
+    <footer class="footer footer-center bg-cyan-950/60 text-white-500 p-10 rounded-xl border">
         <aside>
             <p class="font-bold">
                 Casino Español de Cebu Inc. <br>Since 1920
