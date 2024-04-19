@@ -1,9 +1,13 @@
 <x-layout>
     <x-slot:heading>
         <x-breadcrumbs></x-breadcrumbs>
-    </x-slot:heading>
 
-    <div class="flex flex-row justify-center items-center px-5 pb-5 pt-7 text-white">
+        <div class="flex items-center text-white text-3xl font-extrabold">
+            <h1>FACT SHEET</h1>
+        </div>
+
+    </x-slot:heading>
+    <div class="flex flex-row justify-center items-center text-white">
         <ul class="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
             <li>
                 <div class="timeline-middle">
@@ -16,7 +20,8 @@
                 <div class="timeline-start md:text-end mb-10">
                     <div class="text-lg font-black">Our Location</div>
                     The Casino Español de Cebu, Inc. is located at 107-109 V. Ranudo Street and perpendicular to F.
-                    Ramos & D. Jakosalem Streets. This site was a residential district of prominent families during the
+                    Ramos & D. Jakosalem Streets. This site was a residential district of prominent families during
+                    the
                     pre-war years where most of the ancestral homes still exist. At the back of the club is the
                     residence of the archbishop of Cebu, popularly known as the Archbishop Palace.
                 </div>
@@ -137,4 +142,6 @@
             </li>
         </ul>
     </div>
+    </div>
+
 </x-layout>

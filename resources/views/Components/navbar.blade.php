@@ -13,7 +13,8 @@
                 <ul tabindex="0"
                     class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-cyan-900 rounded-box w-52">
                     <li>
-                        <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
+                        <x-nav-link href="/" :active="request()->is('/')">
+                            Home</x-nav-link>
                     </li>
                     <li>
                         <details>
@@ -101,7 +102,8 @@
         <div class="navbar-center hidden lg:flex">
             <ul class="menu menu-horizontal px-1 z-40">
                 <li>
-                    <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
+                    <x-nav-link href="/" :active="request()->is('/')">
+                        Home</x-nav-link>
                 </li>
                 <li>
                     <details>
