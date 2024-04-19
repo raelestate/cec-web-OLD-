@@ -1,7 +1,7 @@
-<div class="card w-full bg-cyan-600 shadow-xl">
+<div class="card w-full bg-transparent border shadow-xl">
     <div class="card-body">
         <h2 class="card-title">Featured!</h2>
-        <div class="collapse collapse-plus bg-base-200">
+        <div class="collapse collapse-plus transparent border">
             <input type="radio" name="my-accordion-3" checked="checked" />
             <div class="collapse-title text-xl font-medium">
                 How to Order
@@ -11,7 +11,7 @@
             </div>
         </div>
 
-        <div class="collapse collapse-plus bg-base-200">
+        <div class="collapse collapse-plus transparent border">
             <input type="radio" name="my-accordion-3" />
             <div class="collapse-title text-xl font-medium">
                 Pickup and Delivery Details
@@ -21,7 +21,7 @@
             </div>
         </div>
 
-        <div class="collapse collapse-plus bg-base-200">
+        <div class="collapse collapse-plus transparent border">
             <input type="radio" name="my-accordion-3" />
             <div class="collapse-title text-xl font-medium">
                 Meal Deal Promo!
@@ -31,7 +31,7 @@
             </div>
         </div>
 
-        <div class="collapse collapse-plus bg-base-200">
+        <div class="collapse collapse-plus transparent border">
             <input type="radio" name="my-accordion-3" />
             <div class="collapse-title text-xl font-medium">
                 Meal Deal Promo!

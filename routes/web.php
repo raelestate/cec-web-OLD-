@@ -60,3 +60,6 @@ Route::get('/sports', function () {
 Route::get('/vision_mission', function () {
     return view('vision_mission');
 });
+Route::get('/developers', function () {
+    return view('developers');
+});

@@ -1,4 +1,4 @@
-<div class="max-w-md mx-auto mt-20 text-white">
+<div class="max-w-md mx-auto mt-20 text-white border p-5 rounded-xl">
     <h1 class="py-2 font-bold text-xl ">BOSS MARVIN CHUYENS</h1>
     <p class="leading-relaxed text-justify">
         The Casino Español de Cebu, Inc. is a non-stock, and non-profit corporation domiciled in the City of Cebu,

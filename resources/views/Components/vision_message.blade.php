@@ -1,4 +1,4 @@
-<div class="bg-cyan-900 shadow-lg p-6 rounded-lg">
+<div class="transparent border rounded shadow-lg p-6 rounded-lg">
     <h2 class="text-3xl font-bold mb-4">Vision</h2>
     <p class="text-lg mb-8">
         The Spanish Tradition lives on through Casino Español de Cebu.

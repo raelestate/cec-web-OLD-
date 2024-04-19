@@ -1,6 +1,5 @@
 <div class="container mx-auto text-white">
     <div class="navbar bg-transparent p-10">
-
         <div class="navbar-start">
             <div class="dropdown">
                 <div tabindex="0" role="button" class="lg:hidden">
@@ -32,6 +31,7 @@
                                 <li>
                                     <x-nav-link href="/board" :active="request()->is('board')">Board of Directors</x-nav-link>
                                     <x-nav-link href="/management_team" :active="request()->is('management_team')">Management Teams</x-nav-link>
+                                    <x-nav-link href="/developers" :active="request()->is('developers')">Developers</x-nav-link>
                                 </li>
 
                             </ul>
@@ -120,6 +120,7 @@
                             <li>
                                 <x-nav-link href="/board" :active="request()->is('board')">Board of Directors</x-nav-link>
                                 <x-nav-link href="/management_team" :active="request()->is('management_team')">Management Teams</x-nav-link>
+                                <x-nav-link href="/developers" :active="request()->is('developers')">Developers</x-nav-link>
                             </li>
 
                         </ul>

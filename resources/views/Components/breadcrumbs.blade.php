@@ -1,5 +1,5 @@
-<div class="container mx-auto px-10">
-    <div class="text-sm breadcrumbs text-white">
+<div class="mx-auto px-5">
+    <div class="text-sm text-white">
         <ul>
             <li>About Us</li>
             <x-breadcrumbs-link href="/fact_sheet" :active="request()->is('fact_sheet')">Fact Sheet</x-breadcrumbs-link>
@@ -10,6 +10,8 @@
                 Governance</x-breadcrumbs-link>
             <x-breadcrumbs-link href="/board" :active="request()->is('board')">Board of Directors</x-breadcrumbs-link>
             <x-breadcrumbs-link href="/management_team" :active="request()->is('management_team')">Management Teams</x-breadcrumbs-link>
+            <x-breadcrumbs-link href="/developers" :active="request()->is('developers')">Developers</x-breadcrumbs-link>
         </ul>
     </div>
+
 </div>

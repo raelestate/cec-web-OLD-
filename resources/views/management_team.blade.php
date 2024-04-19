@@ -4,5 +4,7 @@
         <x-breadcrumbs></x-breadcrumbs>
 
     </x-slot:heading>
-    <h1>Hello from the Contact Page</h1>
+    <x-management_team_component>
+
+    </x-management_team_component>
 </x-layout>

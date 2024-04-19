@@ -21,7 +21,4 @@
             <x-featured></x-featured>
         </div>
     </div>
-
-
-    </div>
 </x-layout>
